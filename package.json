@@ -1,0 +1,25 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "techblog",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentb5280/TechBlog.git"
+  },
+  "author": "brent bowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentb5280/TechBlog/issues"
+  },
+  "homepage": "https://github.com/brentb5280/TechBlog#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
